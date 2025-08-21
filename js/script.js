@@ -1,0 +1,1 @@
+apiLink = "https://pokeapi.co/api/v2/pokemon/ditto" //remove last one to add your chosen one
